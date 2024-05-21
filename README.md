@@ -3,6 +3,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=4500&pause=1000&color=B05DBBFB&random=false&width=435&lines=Shaping+Systems+One+Line+at+a+Time;Prefer+stability+and+portability+;Autodidact)](https://git.io/typing-svg)
 
+Self-taught Software Engineer with a year of commercial experience, aspiring to be a Systems Administrator.
+
+Currently studying for the CompTIA Linux+ exam.
+I embrace Linux and UNIX philosophy and enjoy sharing it with others 
+
+(*I've already convinced several people!*).
+
+I love utilities that can be used everywhere and enjoy building tools to improve system flow or assist with learning new concepts.
+
+
+As an autodidact, I thrive on exploring new concepts independently and am dedicated to continuous self-improvement.
 
 
 

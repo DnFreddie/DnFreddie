@@ -7,8 +7,9 @@
 **Self-taught Software Developer** with a year of commercial experience, aspiring to be a **Systems Administrator**.
 
 Currently studying for the [CompTIA Linux+ exam](https://www.comptia.org/certifications/linux).
-I embrace Linux and UNIX philosophy and enjoy sharing it with others. 
 
+
+I embrace Linux and UNIX philosophy and enjoy sharing it with others. 
 (*I've already convinced several people!*).
 
 I love utilities that can be used everywhere and enjoy building tools to improve system flow or assist with learning new concepts.

@@ -13,7 +13,7 @@ I embrace Linux and UNIX philosophy and enjoy sharing it with others.
 I love utilities that can be used everywhere and enjoy building tools to improve system flow or assist with learning new concepts.
 
 
-As an autodidact, I thrive on exploring new concepts independently and am dedicated to continuous self-improvement.
+As an **autodidact**, I thrive on exploring new concepts independently and am dedicated to continuous self-improvement.
 
 
 

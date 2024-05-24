@@ -38,4 +38,4 @@ As an **autodidact**, I thrive on exploring new concepts independently and am de
 --- 
 ### ✨ Latest Blog Posts
 
-- [Linux Unmasked](https://defnotfreddie.com/blog/linux_unmasked.md)
+- [Don't Break Easy: Preserve the Best Version of Your System](https://defnotfreddie.com/blog/dont_break_easy_preserve_best_version_of_your_system.md)

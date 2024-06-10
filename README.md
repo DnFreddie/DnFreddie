@@ -6,7 +6,7 @@
 ## 🐧About me
 **Self-taught Software Developer** with a year of commercial experience, aspiring to be a **Systems Administrator**.
 
-Currently studying for the [CompTIA Linux+ exam](https://www.comptia.org/certifications/linux).
+Recently passed [CompTIA Linux+ exam](https://www.credly.com/badges/98005fe1-333a-4e4d-a46d-647f4ce2cad7/linked_in_profile).
 
 
 I embrace Linux and UNIX philosophy and enjoy sharing it with others. 
@@ -38,4 +38,4 @@ As an **autodidact**, I thrive on exploring new concepts independently and am de
 --- 
 ### ✨ Latest Blog Posts
 
-- [Don't Break Easy: Preserve the Best Version of Your System](https://defnotfreddie.com/blog/dont_break_easy_preserve_best_version_of_your_system.md)
+- [The Only Journal Worth Reading](https://defnotfreddie.com/blog/the_only_journal_worth_reading.md)

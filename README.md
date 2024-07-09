@@ -40,4 +40,4 @@ As an **autodidact**, I thrive on exploring new concepts independently and am de
 --- 
 ### ✨ Latest Blog Posts
 
-- [Succumb_to_the_tech_lifestyle](https://defnotfreddie.com/blog/succumb_to_the_tech_lifestyle)
+- [The World Does Not End With Scripting](https://defnotfreddie.com/blog/the_world_does_not_end_with_scripting.md/)

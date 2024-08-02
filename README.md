@@ -18,6 +18,7 @@ I love utilities that can be used everywhere and enjoy building tools to improve
 As an **autodidact**, I thrive on exploring new concepts independently and am dedicated to continuous self-improvement.
 
  🌐 Visit my [blog](https://defnotfreddie.com) for more  
+ 📚 Explore my [notes](https://dnfreddie.github.io/Notes/)
 
 
 
@@ -40,4 +41,4 @@ As an **autodidact**, I thrive on exploring new concepts independently and am de
 --- 
 ### ✨ Latest Blog Posts
 
-- [The World Does Not End With Scripting](https://defnotfreddie.com/blog/the_world_does_not_end_with_scripting.md/)
+- [Humanise Servers With Ansible](https://defnotfreddie.com/blog/humanise_servers_with_ansible)

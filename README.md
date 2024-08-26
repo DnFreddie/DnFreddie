@@ -45,4 +45,4 @@ As an **autodidact**, I thrive on exploring new concepts independently and am de
 --- 
 ### ✨ Latest Blog Posts
 
-- [Humanise Servers With Ansible](https://defnotfreddie.com/blog/humanise_servers_with_ansible)
+- [Selinux Surprise Drawn With Crayons](https://defnotfreddie.com/blog/selinux_surprise_drawn_with_crayons)

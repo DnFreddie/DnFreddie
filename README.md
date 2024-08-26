@@ -18,7 +18,9 @@ I love utilities that can be used everywhere and enjoy building tools to improve
 As an **autodidact**, I thrive on exploring new concepts independently and am dedicated to continuous self-improvement.
 
  🌐 Visit my [blog](https://defnotfreddie.com) for more
+
  🛠️Checkout my **hands-on** [labs](https://killercoda.com/defnotfreddie)
+ 
  📚 Explore my [notes](https://dnfreddie.github.io/Notes/)
 
 

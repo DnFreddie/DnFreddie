@@ -23,6 +23,8 @@ As an **autodidact**, I thrive on exploring new concepts independently and am de
  
  📚 Explore my [notes](https://dnfreddie.github.io/Notes/)
 
+ 📁Peek at my [dotifles](https://github.com/DnFreddie/.dotfiles)
+
 
 
 ---

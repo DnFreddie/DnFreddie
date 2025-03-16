@@ -1,12 +1,11 @@
-# Fryderyk Łysiak 🎩
+# Fryderyk Łysiak 
 `SysAdmin | POSIXly Compatible`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=4500&pause=1000&color=B05DBBFB&random=false&width=435&lines=Shaping+Systems+One+Line+at+a+Time;Prefer+stability+and+portability+;Autodidact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=4500&pause=1000&color=6E6E6E&random=false&width=435&lines=Shaping+Systems+One+Line+at+a+Time;Prefer+stability+and+portability+;Autodidact)](https://git.io/typing-svg)
 
 ## 🐧About me
 
-I recently passed my [RHCSA](https://rhtapps.redhat.com/verify?certId=250-026-069) certification 🎉 and will soon be taking the exam for [RHCE](https://www.redhat.com/en/services/certification/rhce)!  
-
+I recently passed my [RHCSA (Red Hat Certified System Administrator)](https://rhtapps.redhat.com/verify?certId=250-026-069) certification 🎉 and will soon be taking the exam for [RHCE (Red Hat Certified Engineer)](https://www.redhat.com/en/services/certification/rhce)!
 
 I embrace Linux and UNIX philosophy and enjoy sharing it with others. 
 (*I've already convinced several people!*).

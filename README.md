@@ -1,5 +1,5 @@
 # Fryderyk Łysiak (DefnotFreddie) 
-`SysAdmin | POSIXly Compatible`
+`SysAdmin | POSIX Compatible`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=4500&pause=1000&color=6E6E6E&random=false&width=435&lines=Shaping+Systems+One+Line+at+a+Time;Prefer+stability+and+portability+;Autodidact)](https://git.io/typing-svg)
 

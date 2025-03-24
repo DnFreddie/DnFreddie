@@ -48,5 +48,5 @@ As an **autodidact**, I thrive on exploring new concepts independently and am de
 --- 
 ### ✨ Latest Blog Posts
 
-- [Selinux Surprise Drawn With Crayons](https://defnotfreddie.com/blog/selinux_surprise_drawn_with_crayons)
+- [Podman’s New Way: No More generate systemd](https://dnfreddie.github.io/Notes/blog/2025/03/21/podmans-new-way-no-more-generate-systemd/)
 
